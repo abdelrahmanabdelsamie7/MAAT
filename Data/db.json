@@ -1,0 +1,94 @@
+{
+  "Instructors": [
+    {
+      "id": "24",
+      "name": "MahmoudAhmedMahmoud",
+      "email": "Mahmoud445@gmail.com",
+      "gender": "Male"
+    }
+  ],
+  "Students": [
+    {
+      "id": "aed2",
+      "name": "MostafaAhmed",
+      "email": "Mostafa10@gmail.com",
+      "gender": "male"
+    },
+    {
+      "id": "c29c",
+      "name": "Abdo",
+      "email": "Abdo@gmail.com",
+      "gender": "male"
+    }
+  ],
+  "Levels": [
+    {
+      "id": "1",
+      "name": "Level1",
+      "email": "Level1@gmail.com",
+      "Gpa": 3.1
+    }
+  ],
+  "Admins": [
+    {
+      "id": "6de7",
+      "name": "Abdelrahman",
+      "password": "123"
+    },
+    {
+      "id": "6ccb",
+      "name": "Ali",
+      "password": "12345"
+    }
+  ],
+  "Questions": [
+    {
+      "id": "1",
+      "Question1": "What does HTML stand for?",
+      "answera": " Hyper Text Markup Language",
+      "answerb": " Hyperlinks and Text Markup Language",
+      "answerc": " Home Tool Markup Language",
+      "correct": " Hyper Text Markup Language"
+    },
+    {
+      "id": "2",
+      "Question1": "Who is making the Web standards?",
+      "answera": " Google",
+      "answerb": " The World Wide Web Consortium",
+      "answerc": " Mozilla",
+      "correct": " The World Wide Web Consortium"
+    },
+    {
+      "id": "3",
+      "Question1": "Choose the correct HTML element for the largest heading:",
+      "answera": " <h6>",
+      "answerb": " <head>",
+      "answerc": " <h1>",
+      "correct": " <h1>"
+    },
+    {
+      "id": "4",
+      "Question1": "What is the correct HTML element for inserting a line break?",
+      "answera": " <br>",
+      "answerb": " <lb>",
+      "answerc": " <break>",
+      "correct": " <br>"
+    },
+    {
+      "id": "5",
+      "Question1": "Choose the correct HTML element to define emphasized text",
+      "answera": " <em>",
+      "answerb": " <i>",
+      "answerc": " <italic>",
+      "correct": " <em>"
+    },
+    {
+      "id": "6",
+      "Question1": "الامتحان صعب ؟",
+      "answera": "ساهل",
+      "answerb": "متوسط",
+      "answerc": "صعب",
+      "correct": "صعب"
+    }
+  ]
+}
